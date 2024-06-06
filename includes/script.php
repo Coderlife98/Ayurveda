@@ -1,0 +1,15 @@
+<script src="assets/js/vendor/jquery.js"></script>
+    <script src="assets/js/vendor/waypoints.js"></script>
+    <script src="assets/js/bootstrap-bundle.js"></script>
+    <script src="assets/js/meanmenu.js"></script>
+    <script src="assets/js/swiper-bundle.js"></script>
+    <script src="assets/js/ion.rangeSlider.min.js"></script>
+    <script src="assets/js/magnific-popup.js"></script>
+    <script src="assets/js/nice-select.js"></script>
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <script src="assets/js/jquery-knob.js"></script>
+    <script src="assets/js/jquery-appear.js"></script>
+    <script src="assets/js/one-page-nav-min.js"></script>
+    <script src="assets/js/wow.js"></script>
+    <script src="assets/js/ajax-form.js"></script>
+    <script src="assets/js/main.js"></script>
