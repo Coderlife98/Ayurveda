@@ -14,12 +14,12 @@
 
     <?php include ("./includes/header.php"); ?>
 
-    <div class="tp-login-bg  bg-position-default" data-background="assets/img/login/login-bg.png">
+    <div class="tp-login-bg  bg-position-default" data-background="assets/img/register_bg.jpg">
 
         <main>
             <!-- login-area-srart -->
-            <div class="login-area  pb-30">
-                <div class="container py-5">
+            <div class="login-area   set_relative_this">
+                <div class="container py-5 set_between_this_absolute">
                     <div class="row ">
                         <div class="col-xl-7 col-12 col-lg-7">
                             <div class="tp-login-wrapper">
@@ -95,7 +95,7 @@
                         </div>
                         <div class="col-12 col-xl-5 col-lg-5 d-flex align-items-center justify-content-center">
                             <div>
-                                <img src="./assets/img/login/login.svg" height="370px" alt="">
+                                <img src="./assets/img/login/login.svg" class="hide_sm" height="370px" alt="">
                             </div>
                         </div>
                     </div>

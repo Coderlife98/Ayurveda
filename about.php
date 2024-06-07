@@ -40,7 +40,7 @@
       <!-- breadcrumb-area-end -->
 
       <!-- about-author-area-start -->
-      <div class="tp-author p-overflow pt-100 mb-40">
+      <div class="tp-author p-overflow pt-100 mb-20">
          <div class="container">
             <div class="row">
                <div class="col-lg-5 mb-50">
@@ -77,17 +77,17 @@
       <section class="container-fluid py-2 py-lg-4">
          <div class="container">
             <div class="row">
-               <div class="col-12 col-lg-5 my-3">
-                  <div>
-                     <img src="" alt="">
-                  </div>
-               </div>
-               <di class="col-12 col-lg-7 my-3">
+            <div class="col-12 col-lg-7 my-3">
                   <h2 class="fw-bolder">Transform Your Life with Ayurveda</h2>
                   <div>
                      <p class="text-justify add-left-border">
                         Embark on a journey of self-discovery and holistic wellness with Ayurveda, an ancient system of
                         healing that offers profound insights into the interconnectedness of mind, body, and spirit.
+                     </p>
+                  </div>
+                  <div>
+                     <p class="text-justify ">
+                     Our products and services include herbal supplements, skincare, haircare, dietary guidance, and wellness programs tailored to your unique needs. Many have experienced profound benefits, such as improved digestion, reduced stress, and enhanced overall well-being.
                      </p>
                   </div>
                   <div class="col-12 bullet_sm_set px-3">
@@ -133,6 +133,12 @@
                      </div>
                   </div>
             </div>
+               <div class="col-12 col-lg-5 my-3 d-flex justify-content-center">
+                  <div>
+                     <img src="./assets/img/trans.png" class="transform_img" alt="">
+                  </div>
+               </div>
+              
          </div>
          </div>
       </section>
@@ -158,7 +164,7 @@
                      </div>
                      <div>
                         <h4 class="text-info text-center">100% Organic</h4>
-                        <p class="text-justify text-white">Experience 100% organic Ayurveda for holistic wellness.
+                        <p class="text-justify text-slate">Experience 100% organic Ayurveda for holistic wellness.
                            Embrace nature's healing power with pure, natural ingredients for vibrant health and
                            vitality.</p>
                      </div>
@@ -171,7 +177,7 @@
                      </div>
                      <div>
                         <h4 class="text-info text-center">Chemical Less</h4>
-                        <p class="text-justify text-white">Discover chemical-free Ayurveda for natural healing.
+                        <p class="text-justify text-slate">Discover chemical-free Ayurveda for natural healing.
                            Experience the power of pure, herbal remedies that nurture your body without harmful
                            additives.</p>
                      </div>
@@ -184,7 +190,7 @@
                      </div>
                      <div>
                         <h4 class="text-info text-center">Tested Product</h4>
-                        <p class="text-justify text-white">Discover our rigorously tested Ayurvedic products. Backed by
+                        <p class="text-justify text-slate">Discover our rigorously tested Ayurvedic products. Backed by
                            scientific research and traditional wisdom, our products ensure quality, safety, and
                            effectiveness for your well-being.</p>
                      </div>
@@ -202,7 +208,7 @@
             <div class="row">
                <div class="col-12 col-lg-6 my-3">
                   <div>
-                     <img src="./assets/img/product.png" height="450px" width="100%" alt="">
+                     <img src="./assets/img/product.png" class="ppprrrr_about"  alt="">
                   </div>
                </div>
                <div class="col-12 col-lg-6 my-3 d-flex align-items-center">

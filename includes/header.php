@@ -58,12 +58,12 @@
                             <nav class="tp-main-menu-content">
                                 <ul>
                                     <li class=" position-static">
-                                        <a href="index.php" class="text-white">Home</a>
+                                        <a href="index.php" class="set_colo_text">Home</a>
 
                                     </li>
-                                    <li><a href="about.php" class="text-white">About Us</a></li>
+                                    <li><a href="about.php" class="set_colo_text">About Us</a></li>
                                     <li class="has-dropdown">
-                                        <a href="javascript:void(0);" class="text-white">Product</a>
+                                        <a href="javascript:void(0);" class="set_colo_text">Product</a>
                                         <ul class="tp-submenu submenu">
                                             <li><a href="health_care.php">Health Care</a></li>
                                             <li><a href="personal_care.php">Personal Care</a></li>
@@ -76,10 +76,10 @@
                                         <a href="gallery.php">Gallery</a>
                                     </li> -->
                                     <li class="">
-                                        <a href="./business_plan.pdf" class="text-white" download="./business_plan.pdf">Business Plan</a>
+                                        <a href="./business_plan.pdf" class="set_colo_text" download="./business_plan.pdf">Business Plan</a>
                                     </li>
                                    
-                                    <li><a href="./contact.php" class="text-white">Contact</a></li>
+                                    <li><a href="./contact.php" class="set_colo_text">Contact</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -112,7 +112,7 @@
             </div>
             <div class="tpoffcanvas__logo">
                 <a href="index.php">
-                    <img src="assets/img/logo/logo.png" alt="logo">
+                    <img src="./assets/img/logo.svg" height="100px"  alt="logo">
                 </a>
             </div>
             <div class="tp-main-menu-mobile d-lg-none"></div>
@@ -159,113 +159,10 @@
     <!-- tp-offcanvus-area-end -->
     <!--search-form-start -->
     <div class="tp-search-body-overlay"></div>
-    <div class="tp-search-form-toggle">
-        <div class="tp-search-close">
-            <i class="fa-solid fa-xmark"></i>
-        </div>
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <div class="tp-search-form">
-                        <h4>WHAT ARE YOU LOOKING FOR?</h4>
-                        <form action="#">
-                            <input type="text" placeholder="Search Here.." required>
-                            <div class="tp-search-form-icon">
-                                <button type="submit">
-                                    <i class="fa-solid fa-magnifying-glass"></i>
-                                </button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+   
     <!-- search-form-end -->
     <!-- cart mini area start -->
-    <div class="tp-cartmini__area">
-        <div class="modal fade" id="cartMiniModal" tabindex="-1" aria-labelledby="cartMiniModal" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="tp-cartmini__wrapper">
-                        <div class="tp-cartmini__top d-flex align-items-center justify-content-between">
-                            <h4>Your Cart</h4>
-                            <div class="tp-cartminit__close">
-                                <button type="button" data-bs-dismiss="modal" data-bs-target="#cartMiniModal"
-                                    class="tp-cartmini__close-btn"> <i class="fal fa-times"></i></button>
-                            </div>
-                        </div>
-                        <div class="tp-cartmini__list">
-                            <ul>
-                                <li class="tp-cartmini__item p-relative d-flex align-items-start">
-                                    <div class="tp-cartmini__thumb mr-15">
-                                        <a href="shop-details.html">
-                                            <img src="assets/img/shop/product.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="tp-cartmini__content">
-                                        <h3 class="tp-cartmini__title">
-                                            <a href="shop-details.html">Form Stylish Glass Base</a>
-                                        </h3>
-                                        <span class="tp-cartmini__price">
-                                            <span class="price">1 × $70.00</span>
-                                        </span>
-                                    </div>
-                                    <a href="#" class="tp-cartmini__remove">
-                                        <i class="fal fa-times"></i>
-                                    </a>
-                                </li>
-                                <li class="tp-cartmini__item p-relative d-flex align-items-start">
-                                    <div class="tp-cartmini__thumb mr-15">
-                                        <a href="shop-details.html">
-                                            <img src="assets/img/shop/product-2.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="tp-cartmini__content">
-                                        <h3 class="tp-cartmini__title">
-                                            <a href="shop-details.html">Form Jogar Shoes</a>
-                                        </h3>
-                                        <span class="tp-cartmini__price">
-                                            <span class="price">1 × $95.99</span>
-                                        </span>
-                                    </div>
-                                    <a href="#" class="tp-cartmini__remove">
-                                        <i class="fal fa-times"></i>
-                                    </a>
-                                </li>
-                                <li class="tp-cartmini__item p-relative d-flex align-items-start">
-                                    <div class="tp-cartmini__thumb mr-15">
-                                        <a href="shop-details.html">
-                                            <img src="assets/img/shop/product-3.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="tp-cartmini__content">
-                                        <h3 class="tp-cartmini__title">
-                                            <a href="shop-details.html">Alarm Cloack Chinese</a>
-                                        </h3>
-                                        <span class="tp-cartmini__price">
-                                            <span class="price">1 × $120.00</span>
-                                        </span>
-                                    </div>
-                                    <a href="#" class="tp-cartmini__remove">
-                                        <i class="fal fa-times"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="tp-cartmini__total d-flex align-items-center justify-content-between">
-                            <h5>Total</h5>
-                            <span>$180.00</span>
-                        </div>
-                        <div class="tp-cartmini__bottom">
-                            <a href="cart.html" class="tp-cartmini-btn w-100 mb-20">view cart</a>
-                            <a href="checkout.html" class="tp-cartmini-btn-2 w-100">checkout</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+  
     <div class="body-overlay"></div>
     <!-- cart mini area end -->
     <!-- main-header-area-end -->

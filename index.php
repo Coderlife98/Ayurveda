@@ -131,15 +131,15 @@
         <!-- hero-area-end -->
 
         <!-- about us section start -->
-        <div class="container-fluid">
+        <div class="container-fluid py-2 py-lg-5">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-md-5 my-3">
+                    <div class="col-12 col-lg-5 my-3 smm__flex">
                         <div>
-                            <img src="./assets/img/about_us.png" alt="@dued">
+                            <img src="./assets/img/about_us.png" class="sm_aboooo" alt="@dued">
                         </div>
                     </div>
-                    <div class="col-12 col-md-7 my-3">
+                    <div class="col-12 col-lg-7 my-3">
                         <div>
                             <h1>About Us</h1>
                             <div>
@@ -176,7 +176,7 @@
                                 <div class="col-lg-5 col-md-5">
                                     <div class="tp-about-thumb tp-thumb p-overflow wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                                         <div class="tp-thumb-overlay wow"></div>
-                                        <img src="assets/img/about/about1.jpg" alt="about1">
+                                        <img src="./assets/img/home2.png" alt="dued">
                                     </div>
                                 </div>
                                 <div class="col-lg-7 col-md-7">
@@ -223,7 +223,7 @@
                     </div>
                     <div class="col-lg-4 col-md-12">
                         <div class="tp-about-investment h-100 p-relative wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
-                            <img src="./assets/img/ayu1.png" alt="about">
+                            <img src="./assets/img/ayu1.png" class="hidddd-sm" alt="about">
                             <!-- <div class="tp-about-investment-shape up-down d-none d-lg-block p-absolute">
                                 <img src="assets/img/about/ring.png" alt="ring">
                             </div> -->
@@ -234,13 +234,13 @@
         </div>
         <!-- about-us-area-end -->
 <!-- background images start -->
-<div class="container-fluid  set_bg_ayur p-2 p-lg-5">
+<div class="container-fluid  set_bg_ayur p-3 p-lg-5">
 <div class="container">
     <div class="row">
         <h1 class="text-center text-white">Ready to Restore Harmony in your<br>
         Mind ,Body,and Spirit
      </h1>
-     <p class="text-center text-slate">
+     <p class="text-center text-white">
      Ayurveda teaches that mental clarity and emotional balance are crucial for overall well-being. Our range of products includes herbal supplements designed to support cognitive function, reduce stress, and promote mental peace
      </p>
     <a href="./contact.php" class="text-white text-center "> <button class="gradient_bbb">Book An Appointment</button></a>
@@ -255,28 +255,28 @@
             <div class="container-fluid">
                 <div class="container">
                     <div class="row">
-                        <div class="col-12 col-lg-3 my-2">
+                        <div class="col-12 col-lg-3 col-md-6 my-2 d-flex justify-content-center">
                         <div>
                             <div class="add_circle_border">
                                 <img src="./assets/img/img1.png" class="img_border" alt="">
                             </div>
                         </div>
                         </div>
-                        <div class="col-12 col-lg-3 my-2 d-flex justify-content-center">
+                        <div class="col-12 col-lg-3 col-md-6 my-2 d-flex justify-content-center">
                              <div>
                             <div class="add_circle_border">
                                 <img src="./assets/img/img2.png" class="img_border" alt="">
                             </div>
                         </div>
                         </div>
-                        <div class="col-12 col-lg-3 my-2">
+                        <div class="col-12 col-lg-3 col-md-6 my-2 d-flex justify-content-center">
                              <div>
                             <div class="add_circle_border">
                                 <img src="./assets/img/img3.png" class="img_border" alt="">
                             </div>
                         </div>
                         </div>
-                        <div class="col-12 col-lg-3 my-2">
+                        <div class="col-12 col-lg-3 col-md-6 my-2 d-flex justify-content-center">
                              <div>
                             <div class="add_circle_border">
                                 <img src="./assets/img/img4.png" class="img_border" alt="">
@@ -300,12 +300,12 @@
                             <h2 class="tp-section-title">Our products.</h2>
                         </div>
                     </div>
-                    <div class="col-lg-12 col-md-6">
+                    <div class="col-lg-12 col-12">
                         <div class="row">
                             <div class="col-lg-4 col-md-12">
                                 <div class="tp-service-item mb-30 p-relative p-overflow  wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                                     <div class="tp-service-shape-inner p-absolute">
-                                        <a class="tp-service-shape p-relative" href="service-details.html">
+                                        <a class="tp-service-shape p-relative" href="health_care.php">
                                             <i class="flaticon-next"></i>
                                         </a>
                                     </div>
@@ -313,7 +313,7 @@
                                     <i class="fa-sharp fa-solid fa-hand-holding-medical text-danger"></i>
                                     </div>
                                     <div class="tp-service-content">
-                                        <h3 class="tp-service-title"><a href="service-details.html">Health Care</a></h3>
+                                        <h3 class="tp-service-title"><a href="health_care.php">Health Care</a></h3>
                                         <p class="tp-service-pera">Health care ensures well-being through medical services, treatments, and preventive measures.</p>
                                     </div>
                                 </div>
@@ -321,7 +321,7 @@
                             <div class="col-lg-4 col-md-12">
                                 <div class="tp-service-item mb-30 p-relative p-overflow  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
                                     <div class="tp-service-shape-inner p-absolute">
-                                        <a class="tp-service-shape p-relative" href="service-details.html">
+                                        <a class="tp-service-shape p-relative" href="agriculture.php">
                                             <i class="flaticon-next"></i>
                                         </a>
                                     </div>
@@ -329,7 +329,7 @@
                                     <i class="fa-solid fa-leaf-maple text-success"></i>
                                     </div>
                                     <div class="tp-service-content">
-                                        <h3 class="tp-service-title"><a href="service-details.html">Agriculture</a></h3>
+                                        <h3 class="tp-service-title"><a href="agriculture.php">Agriculture</a></h3>
                                         <p class="tp-service-pera"> Utilizing natural remedies, farmers nurture crops, enhancing soil vitality and plant health. </p>
                                     </div>
                                 </div>
@@ -337,7 +337,7 @@
                             <div class="col-lg-4 col-md-12">
                                 <div class="tp-service-item mb-30 p-relative p-overflow wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                     <div class="tp-service-shape-inner p-absolute">
-                                        <a class="tp-service-shape p-relative" href="service-details.html">
+                                        <a class="tp-service-shape p-relative" href="home_care.php">
                                             <i class="flaticon-next"></i>
                                         </a>
                                     </div>
@@ -345,7 +345,7 @@
                                     <i class="fa-sharp fa-solid fa-house-chimney-heart text-danger"></i>
                                     </div>
                                     <div class="tp-service-content">
-                                        <h3 class="tp-service-title"><a href="service-details.html">Home Care</a></h3>
+                                        <h3 class="tp-service-title"><a href="home_care.php">Home Care</a></h3>
                                         <p class="tp-service-pera">Home care in Ayurveda involves utilizing natural remedies and practices for holistic wellness. </p>
                                     </div>
                                 </div>
@@ -353,7 +353,7 @@
                             <div class="col-lg-4 col-md-12">
                                 <div class="tp-service-item mb-30 p-relative p-overflow wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                     <div class="tp-service-shape-inner p-absolute">
-                                        <a class="tp-service-shape p-relative" href="service-details.html">
+                                        <a class="tp-service-shape p-relative" href="personal_care.php">
                                             <i class="flaticon-next"></i>
                                         </a>
                                     </div>
@@ -361,7 +361,7 @@
                                     <i class="fa-sharp fa-solid fa-leaf text-success"></i>
                                     </div>
                                     <div class="tp-service-content">
-                                        <h3 class="tp-service-title"><a href="service-details.html">Personal Care</a></h3>
+                                        <h3 class="tp-service-title"><a href="personal_care.php">Personal Care</a></h3>
                                         <p class="tp-service-pera">From daily routines to herbal remedies, Ayurveda advocates simplicity and balance for optimal well-being. </p>
                                     </div>
                                 </div>
@@ -369,7 +369,7 @@
                             <div class="col-lg-4 col-md-12">
                                 <div class="tp-service-item mb-30 p-relative p-overflow wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                     <div class="tp-service-shape-inner p-absolute">
-                                        <a class="tp-service-shape p-relative" href="service-details.html">
+                                        <a class="tp-service-shape p-relative" href="kids_care.php">
                                             <i class="flaticon-next"></i>
                                         </a>
                                     </div>
@@ -377,7 +377,7 @@
                                     <i class="fa-solid fa-family-dress text-info"></i>
                                     </div>
                                     <div class="tp-service-content">
-                                        <h3 class="tp-service-title"><a href="service-details.html">Kids Care</a></h3>
+                                        <h3 class="tp-service-title"><a href="kids_care.php">Kids Care</a></h3>
                                         <p class="tp-service-pera">Crafted with traditional wisdom, these remedies ensure holistic health for kids.</p>
                                     </div>
                                 </div>
@@ -505,7 +505,7 @@
                                             <i class="flaticon-star"></i>
                                             <i class="flaticon-star"></i>
                                         </div>
-                                        <p>After using Ayurvedic products, my digestion improved significantly. I feel more balanced, energized, and healthier overall. Highly recommend!"</p>
+                                        <p>After using Ayurvedic products, my digestion improved significantly. I feel more balanced, energized, and healthier overall.</p>
                                         <div class="tp-testimonial-customer d-flex align-items-center">
                                             <img src="assets/img/testimonial/01.png" alt="01">
                                             <div class="tp-testimonial-identy">

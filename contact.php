@@ -15,7 +15,7 @@
 
       <main>
          <!-- breadcrumb-area-start -->
-         <div class="tp-breadcrumb-area-7 bg-position-default" data-background="assets/img/breadcrumb/breadcrumb-bg9.jpg">
+         <div class="tp-breadcrumb-area-7 bg-position-default skull_height" data-background="assets/img/contact_hero.jpg">
             <div class="container">
                <div class="row">
                 <div class="col-lg-12">
@@ -33,7 +33,7 @@
          </div>
          <!-- breadcrumb-area-end -->
          <!-- tp-contact-item-area-start -->
-        <div class="tp-contact-item-area pt-120 mb-70">
+        <div class="tp-contact-item-area pt-50 mb-70">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4 col-md-6 mb-50">
@@ -140,62 +140,7 @@
             </div>
         </div>
         <!-- contact-form-area-end -->
-        <!-- contact-lucation-area-start -->
-        <div class="tp-contact-lucation-area bg-position-default pt-105 pb-80"  data-background="assets/img/contact/contact-lucation.png">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="tp-contact-title-inner text-center mb-50 wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
-                            <h2 class="tp-section-title tp-section-title2">Offices & Locations</h2>
-                            <p class="tp-section-title-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent gravida tempus viverra<br> Sed non pretium nibh, in tristique diam. </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 mb-40">
-                        <div class="tp-contact-lucation-wrapper wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
-                           <h3 class="tp-contact-lucation-title">San Fransisco, CA</h3>
-                           <div class="row">
-                              <div class="col-lg-5  col-md-5">
-                                 <div class="tp-contact-lucation-thumb">
-                                    <img class="w-100" src="assets/img/contact/city.png" alt="city">
-                                </div>
-                              </div>
-                              <div class="col-lg-7  col-md-7">
-                                 <div class="tp-contact-lucation-content d-flex">
-                                    <div class="tp-contact-lucation-inner">
-                                       <span><a href="tel:xxxxxxxxxxx" >xxxxxxxxxxx</a></span>
-                                       <span><a href="mailto:manojfhp@gmail.com ">manojfhp@gmail.com </a></span>
-                                       <span><a href="" target="_blank">112 Jangethi Meerut UP</a></span>
-                                    </div>
-                                </div>
-                              </div>
-                           </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 mb-40">
-                        <div class="tp-contact-lucation-wrapper  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
-                           <h3 class="tp-contact-lucation-title">Sunway Piramid, ML</h3>
-                           <div class="row">
-                              <div class="col-lg-5 col-md-5">
-                                 <div class="tp-contact-lucation-thumb">
-                                    <img class="w-100" src="assets/img/contact/city2.png" alt="city">
-                                </div>
-                              </div>
-                              <div class="col-lg-7 col-md-7">
-                                 <div class="tp-contact-lucation-content d-flex">
-                                    <div class="tp-contact-lucation-inner">
-                                        <span><a href="tel:xxxxxx" >xxxxxxxx</a></span>
-                                        <span><a href="mailto:manojfhp@gmail.com ">manojfhp@gmail.com </a></span>
-                                        <span><a href="javascript:void(0);" >112 Jangethi Meerut UP</a></span>
-                                    </div>
-                                </div>
-                              </div>
-                           </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- contact-lucation-area-end -->
+        
       </main>
       <!-- footer-area-start -->
       <?php include("./includes/footer.php");?>
