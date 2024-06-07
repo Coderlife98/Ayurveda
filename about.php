@@ -45,7 +45,7 @@
             <div class="row">
                <div class="col-lg-5 mb-50">
                   <div class="tp-author-img wow fadeInLeft" data-wow-delay=".4s" data-wow-duration="1s">
-                     <img class="w-100" src="assets/img/about/author.jpg" alt="author">
+                     <img class="w-100" src="assets/img/about/author.jpg" alt="@dued">
                   </div>
                </div>
                <div class="col-lg-7 mb-50 d-flex align-items-center">
@@ -135,7 +135,7 @@
             </div>
                <div class="col-12 col-lg-5 my-3 d-flex justify-content-center">
                   <div>
-                     <img src="./assets/img/trans.png" class="transform_img" alt="">
+                     <img src="./assets/img/trans.png" class="transform_img" alt="@dued">
                   </div>
                </div>
               
@@ -160,7 +160,7 @@
                <div class="col-12 col-md-6 col-lg-4 my-3">
                   <div class=" design_main p-3">
                      <div class="left d-flex justify-content-center my-2">
-                        <img src="./assets/img/organic.png" width="60px" alt="">
+                        <img src="./assets/img/organic.png" width="60px" alt="@dued">
                      </div>
                      <div>
                         <h4 class="text-info text-center">100% Organic</h4>
@@ -173,7 +173,7 @@
                <div class="col-12 col-md-6 col-lg-4 my-3">
                   <div class=" design_main p-3">
                      <div class="left d-flex justify-content-center my-2">
-                        <img src="./assets/img/chemical.png" width="60px" alt="">
+                        <img src="./assets/img/chemical.png" width="60px" alt="@dued">
                      </div>
                      <div>
                         <h4 class="text-info text-center">Chemical Less</h4>
@@ -186,7 +186,7 @@
                <div class="col-12 col-md-6 col-lg-4 my-3">
                   <div class="design_main p-3">
                      <div class="left d-flex justify-content-center my-2">
-                        <img src="./assets/img/tested.png" width="60px" alt="">
+                        <img src="./assets/img/tested.png" width="60px" alt="@dued">
                      </div>
                      <div>
                         <h4 class="text-info text-center">Tested Product</h4>
@@ -208,7 +208,7 @@
             <div class="row">
                <div class="col-12 col-lg-6 my-3">
                   <div>
-                     <img src="./assets/img/product.png" class="ppprrrr_about"  alt="">
+                     <img src="./assets/img/product.png" class="ppprrrr_about"  alt="@dued">
                   </div>
                </div>
                <div class="col-12 col-lg-6 my-3 d-flex align-items-center">

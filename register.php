@@ -62,7 +62,7 @@
                         </div>
                         <div class="col-12  col-lg-5 my-2 d-flex align-items-center justify-content-center">
                             <div>
-                                <img src="./assets/img/reg.jpg" class="set_width" alt="">
+                                <img src="./assets/img/reg.jpg" class="set_width" alt="@dued">
                             </div>
                         </div>
                     </div>

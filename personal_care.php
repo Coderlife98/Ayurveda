@@ -39,7 +39,7 @@
       </div> -->
       <!-- breadcrumb-area-end -->
 <div class="container-fluid px-0">
-    <img src="./assets/img/comming_soon.jpg" class="comming_soon" alt="">
+    <img src="./assets/img/comming_soon.jpg" class="comming_soon" alt="@dued">
 </div>
 
 
