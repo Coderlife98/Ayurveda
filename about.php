@@ -28,7 +28,7 @@
                            <span class="tp-breadcrumb-title-pre">ABOUT US</span>
                         </div>
                         <h2 class="tp-breadcrumb-title mb-80 wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
-                           Reduces Stress &<br> Anxiety</h2>
+                        Your Trusted Partner <br> in Ayurveda Wellness</h2>
                      </div>
                   </div>
                </div>
@@ -43,9 +43,9 @@
       <div class="tp-author p-overflow pt-100 mb-20">
          <div class="container">
             <div class="row">
-               <div class="col-lg-5 mb-50">
+               <div class="col-lg-5 mb-50 d-flex align-items-center justify-content-center">
                   <div class="tp-author-img wow fadeInLeft" data-wow-delay=".4s" data-wow-duration="1s">
-                     <img class="w-100" src="assets/img/about/author.jpg" alt="@dued">
+                     <img class="" width="350px" src="assets/img/about_s.png" alt="@dued">
                   </div>
                </div>
                <div class="col-lg-7 mb-50 d-flex align-items-center">
